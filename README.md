@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<span style="pointer-events: none;">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
   <img style="pointer-events: none;" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Panicintrinsica&theme=tokyonight&rank_icon=github&hide_border=true" />
-</span>
-<span style="pointer-events: none;">
+</a>
+<a href="https://github.com/anuraghazra/convoychat" style="text-decoration: none;">
   <img style="pointer-events: none;" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Panicintrinsica&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true" />
-</span>
+</a>
 
 <!--
 
