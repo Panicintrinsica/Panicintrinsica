@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panicintrinsica)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panicintrinsica&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Panicintrinsica/Panicintrinsica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
