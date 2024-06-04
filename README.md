@@ -1,7 +1,11 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panicintrinsica&theme=tokyonight&rank_icon=github&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panicintrinsica&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=false)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Panicintrinsica&theme=tokyonight&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Panicintrinsica&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 
 <!--
 
