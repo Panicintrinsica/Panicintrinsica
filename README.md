@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration: none;">
   <img style="pointer-events: none;" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Panicintrinsica&theme=tokyonight&rank_icon=github&hide_border=true" />
 </a>
